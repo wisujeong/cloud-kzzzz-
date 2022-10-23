@@ -8,4 +8,4 @@
   Deployment/Service/PVC 등 서비스 동작에 필요한 오브젝트들을 생성하는 과정을 보여주면서 서비스를 처음부터 올리는 과정을 보여주면 됨. HPAs도 가능하면 보여주기
 
 4. grafana Monitoring
-쿼리짜서 대쉬보드 직접 만들거나 import해서 사용량 보여주기
+  쿼리짜서 대쉬보드 직접 만들거나 import해서 사용량 보여주기
